@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-
+>>>>>>> master branch
 this is created from the master branch.
 =======
+>>>>>>> hot_fix
 so sad .you are in the bad.txt
 
->>>>>>> hot_fix
+now they are merged together
