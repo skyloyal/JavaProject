@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 this is created from the master branch.
+=======
+so sad .you are in the bad.txt
+
+>>>>>>> hot_fix
